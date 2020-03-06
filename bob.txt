@@ -1,4 +1,9 @@
 master branch test 1
 master branch test 2
+<<<<<<< HEAD
 master branch test 3
 master branch test 4
+=======
+first branch test 1
+first branch test 2
+>>>>>>> first
